@@ -33,9 +33,12 @@ class RegisterScreen extends StatelessWidget {
 
               Text(
                 "Daftar Akun Baru",
-                style: TextStyle(
-                    fontSize: 18, fontWeight: FontWeight.bold),
                 textAlign: TextAlign.center,
+                style: TextStyle(
+                  fontSize: 18,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.white,
+                ),
               ),
 
               Text(
